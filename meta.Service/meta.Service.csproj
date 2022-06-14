@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\meta.Infra.Data.Interfaces\meta.Infra.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\meta.Service.Interfaces\meta.Service.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

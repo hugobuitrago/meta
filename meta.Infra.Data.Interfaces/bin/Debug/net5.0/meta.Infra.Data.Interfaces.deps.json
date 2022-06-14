@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "meta.Infra.Data.Interfaces/1.0.0": {
+        "dependencies": {
+          "meta.Domain": "1.0.0"
+        },
+        "runtime": {
+          "meta.Infra.Data.Interfaces.dll": {}
+        }
+      },
+      "meta.Domain/1.0.0": {
+        "runtime": {
+          "meta.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "meta.Infra.Data.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "meta.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

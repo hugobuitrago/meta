@@ -1,0 +1,15 @@
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\bin\Debug\net5.0\meta.Infra.Data.Interfaces.deps.json
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\bin\Debug\net5.0\meta.Infra.Data.Interfaces.dll
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\bin\Debug\net5.0\ref\meta.Infra.Data.Interfaces.dll
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\bin\Debug\net5.0\meta.Infra.Data.Interfaces.pdb
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\bin\Debug\net5.0\meta.Domain.dll
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\bin\Debug\net5.0\meta.Domain.pdb
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.csproj.AssemblyReference.cache
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.AssemblyInfoInputs.cache
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.AssemblyInfo.cs
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.dll
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\ref\meta.Infra.Data.Interfaces.dll
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.pdb
+C:\Users\hugo.braga\source\repos\meta.Infra.Data.Interfaces\obj\Debug\net5.0\meta.Infra.Data.Interfaces.csproj.CopyComplete

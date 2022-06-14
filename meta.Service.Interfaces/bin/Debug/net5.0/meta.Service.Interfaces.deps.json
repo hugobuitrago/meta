@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "meta.Service.Interfaces/1.0.0": {
+        "dependencies": {
+          "meta.DTO": "1.0.0",
+          "meta.Domain": "1.0.0"
+        },
+        "runtime": {
+          "meta.Service.Interfaces.dll": {}
+        }
+      },
+      "meta.Domain/1.0.0": {
+        "runtime": {
+          "meta.Domain.dll": {}
+        }
+      },
+      "meta.DTO/1.0.0": {
+        "runtime": {
+          "meta.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "meta.Service.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "meta.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "meta.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
