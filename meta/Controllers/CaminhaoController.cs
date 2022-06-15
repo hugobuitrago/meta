@@ -61,12 +61,19 @@ namespace meta.Controllers
         [Route("api/Caminhao")]
         public async Task<IActionResult> Edit(CaminhaoEditDTO caminhaoParam)
         {
-            var result = await _caminhaoService.EditCaminhaoAsync(caminhaoParam);
+            try
+            {
+                var result = await _caminhaoService.EditCaminhaoAsync(caminhaoParam);
+                if (result == null)
+                    return NotFound();
 
-            if (result == null)
-                return NotFound();
-
-            return Ok(result);
+                return Ok(result);
+            }
+            catch (ArgumentException e)
+            {
+                return BadRequest(e.Message);
+            }
+            
         }
 
         /// <summary>
@@ -78,9 +85,16 @@ namespace meta.Controllers
         [Route("api/Caminhao")]
         public async Task<IActionResult> Insert(CaminhaoInsertDTO caminhaoParam)
         {
-            var result = await _caminhaoService.InsertCaminhaoAsync(caminhaoParam);
-
-            return Ok(result);
+            try
+            {
+                var result = await _caminhaoService.InsertCaminhaoAsync(caminhaoParam);
+                return Ok(result);
+            }
+            catch (ArgumentException e)
+            {
+                return BadRequest(e.Message);
+            }
+ 
         }
     }
 }

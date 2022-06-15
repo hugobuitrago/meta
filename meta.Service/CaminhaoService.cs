@@ -42,6 +42,12 @@ namespace meta.Service
             caminhao.AnoFabricacao = caminhaoDTO.AnoFabricacao;
             caminhao.AnoModelo = caminhaoDTO.AnoModelo;
 
+            if ((caminhaoDTO.AnoFabricacao != DateTime.Now.Year) || (caminhaoDTO.AnoModelo != DateTime.Now.Year && caminhaoDTO.AnoModelo != DateTime.Now.AddYears(1).Year))
+            {
+                ArgumentException ex = new ArgumentException("Ano de Fabricacao ou Modelo fora do permitido");
+                throw ex;
+            }
+
             await _caminhaoRepository.Edit(caminhao);
             return caminhao;
         }
@@ -52,6 +58,13 @@ namespace meta.Service
             caminhao.Modelo = caminhaoDTO.Modelo;
             caminhao.AnoFabricacao = caminhaoDTO.AnoFabricacao;
             caminhao.AnoModelo = caminhaoDTO.AnoModelo;
+
+            if ((caminhaoDTO.AnoFabricacao != DateTime.Now.Year) || (caminhaoDTO.AnoModelo != DateTime.Now.Year && caminhaoDTO.AnoModelo != DateTime.Now.AddYears(1).Year))
+            {
+                ArgumentException ex = new ArgumentException("Ano de Fabricacao ou Modelo fora do permitido");
+                throw ex;
+            }
+
 
             await _caminhaoRepository.Insert(caminhao);
             return caminhao;
