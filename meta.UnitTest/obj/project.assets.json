@@ -6531,11 +6531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.UnitTest\\meta.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.UnitTest\\meta.UnitTest.csproj",
       "projectName": "meta.UnitTest",
-      "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.UnitTest\\meta.UnitTest.csproj",
+      "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.UnitTest\\meta.UnitTest.csproj",
       "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6556,14 +6556,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj"
+            "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj"
             },
-            "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj"
+            "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj"
             },
-            "C:\\Users\\hugo.braga\\source\\repos\\meta.Service\\meta.Service.csproj": {
-              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service\\meta.Service.csproj"
+            "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service\\meta.Service.csproj": {
+              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service\\meta.Service.csproj"
             }
           }
         }

@@ -86,11 +86,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service\\meta.Service.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service\\meta.Service.csproj",
       "projectName": "meta.Service",
-      "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service\\meta.Service.csproj",
+      "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service\\meta.Service.csproj",
       "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service\\obj\\",
+      "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -111,11 +111,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj"
+            "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj"
             },
-            "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj"
+            "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj"
             }
           }
         }

@@ -42,11 +42,14 @@ namespace meta.Controllers
         /// <returns>Retorna o status da transação</returns>
         [HttpDelete]
         [Route("api/Caminhao")]
-        public async Task<int> Delete(long idCaminhao)
+        public async Task<IActionResult> Delete(long idCaminhao)
         {
             var result = await _caminhaoService.DeleteCaminhaoAsync(idCaminhao);
 
-            return result;
+            if (result == null)
+                return NotFound();
+
+            return Ok(result);
         }
 
         /// <summary>
@@ -56,11 +59,14 @@ namespace meta.Controllers
         /// <returns>Retorna o objeto editado</returns>
         [HttpPut]
         [Route("api/Caminhao")]
-        public async Task<Caminhao> Edit(CaminhaoEditDTO caminhaoParam)
+        public async Task<IActionResult> Edit(CaminhaoEditDTO caminhaoParam)
         {
             var result = await _caminhaoService.EditCaminhaoAsync(caminhaoParam);
 
-            return result;
+            if (result == null)
+                return NotFound();
+
+            return Ok(result);
         }
 
         /// <summary>
@@ -70,11 +76,11 @@ namespace meta.Controllers
         /// <returns>Retorna o objeto inserido</returns>
         [HttpPost]
         [Route("api/Caminhao")]
-        public async Task<Caminhao> Insert(CaminhaoInsertDTO caminhaoParam)
+        public async Task<IActionResult> Insert(CaminhaoInsertDTO caminhaoParam)
         {
             var result = await _caminhaoService.InsertCaminhaoAsync(caminhaoParam);
 
-            return result;
+            return Ok(result);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fDbBcChyNm07rvztrcQDp63rKoihaTNpxCPhOzi6PxJ6fOa98ZZmVzIjw9Bardp71D+Th0GvOiMl9ckoF2nzMg==",
+  "dgSpecHash": "ATx9l/9Nusg6kWJpO9CSQDTv+qObhk0r/R+X0A7w/BmX+UVL7NM0oLPKSPVeOAQT96wdVcxZPCYmnIHmtYfEyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

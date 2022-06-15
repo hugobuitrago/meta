@@ -22,15 +22,22 @@ namespace meta.Service
             return await _caminhaoRepository.GetAll();
         }
 
-        public async Task<int> DeleteCaminhaoAsync(long idCaminhao)
+        public async Task<int?> DeleteCaminhaoAsync(long idCaminhao)
         {
             Caminhao caminhao = await _caminhaoRepository.GetById(idCaminhao);
+
+            if (caminhao == null)
+                return null;
+
             return await _caminhaoRepository.Delete(caminhao);
         }
 
         public async Task<Caminhao> EditCaminhaoAsync(CaminhaoEditDTO caminhaoDTO)
         {
             Caminhao caminhao = await _caminhaoRepository.GetById(caminhaoDTO.Id);
+            if (caminhao == null)
+                return null;
+
             caminhao.Modelo = caminhaoDTO.Modelo;
             caminhao.AnoFabricacao = caminhaoDTO.AnoFabricacao;
             caminhao.AnoModelo = caminhaoDTO.AnoModelo;

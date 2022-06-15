@@ -13,6 +13,7 @@ namespace meta.DTO
         public long Id { get; set; }
         [RegularExpressionList("FH|FM", ErrorMessage = "Modelo não aceito.")]
         public string Modelo { get; set; }
+        [RegularExpressionList("FH|FM", ErrorMessage = "Modelo não aceito.")]
         public int AnoFabricacao { get; set; }
         public int AnoModelo { get; set; }
     }

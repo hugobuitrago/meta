@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj": {}
+    "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj": {
+    "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj",
         "projectName": "meta.Domain",
-        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj",
+        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj",
         "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

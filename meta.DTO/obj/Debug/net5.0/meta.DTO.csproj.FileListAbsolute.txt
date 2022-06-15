@@ -9,3 +9,15 @@ C:\Users\hugo.braga\source\repos\meta.DTO\obj\Debug\net5.0\meta.DTO.csproj.CoreC
 C:\Users\hugo.braga\source\repos\meta.DTO\obj\Debug\net5.0\meta.DTO.dll
 C:\Users\hugo.braga\source\repos\meta.DTO\obj\Debug\net5.0\ref\meta.DTO.dll
 C:\Users\hugo.braga\source\repos\meta.DTO\obj\Debug\net5.0\meta.DTO.pdb
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\bin\Debug\net5.0\meta.DTO.deps.json
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\bin\Debug\net5.0\meta.DTO.dll
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\bin\Debug\net5.0\ref\meta.DTO.dll
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\bin\Debug\net5.0\meta.DTO.pdb
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\meta.DTO.csproj.AssemblyReference.cache
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\meta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\meta.DTO.AssemblyInfoInputs.cache
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\meta.DTO.AssemblyInfo.cs
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\meta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\meta.DTO.dll
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\ref\meta.DTO.dll
+C:\Users\hugo.braga\source\repos\gitHugo\meta.DTO\obj\Debug\net5.0\meta.DTO.pdb

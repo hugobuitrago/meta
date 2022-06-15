@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nRS3Q6vRWUNIj5XIAMcN7ThzdkdRUM4BoWdjTlHkmcCwTMqMhslzuYk3xdp5d6q0lH4g1q6nT61fFZSXRj/PAg==",
+  "dgSpecHash": "x9XkoFsjSifNuJokMgBKLYw/iRwVvEO239m9p+t1QmJVlyr48t9aa0cVhQj5SfF4YSWDCmBy87wCGQnbEH+qSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\meta.UnitTest\\meta.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.UnitTest\\meta.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugo.braga\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\hugo.braga\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj",
       "projectName": "meta.Service.Interfaces",
-      "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj",
+      "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\meta.Service.Interfaces.csproj",
       "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Service.Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Service.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -74,11 +74,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj": {
-              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj"
+            "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj": {
+              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj"
             },
-            "C:\\Users\\hugo.braga\\source\\repos\\meta.DTO\\meta.DTO.csproj": {
-              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.DTO\\meta.DTO.csproj"
+            "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.DTO\\meta.DTO.csproj": {
+              "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.DTO\\meta.DTO.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zOPfUdyvS7g8cx8GyH1Rvvdy4/+pSm2sXDdc7pBAn9GDcwFFyjJm+59FlAUcMS1Ycd9TgvwwEQZgKSezDcu/cw==",
+  "dgSpecHash": "iUPlIomdUFwm6P8/g2mU0NzcbhsCjmUzc+4b6Vr04TrytNEZTfisQqIhsYnupEjPuCC582kbY2RRK0lC1ODnsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\meta\\meta.csproj",
+  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta\\meta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugo.braga\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hugo.braga\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

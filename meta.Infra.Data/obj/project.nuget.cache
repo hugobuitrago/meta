@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eeF2vLJw9Sl2V2TS2eNeX+BnFijus1YTGAIIyDte3enp0zm/JbxKskul6DHCG1YPLVvjTomvEswfdTf+GeUAyg==",
+  "dgSpecHash": "FVrofTcv1Bo8lRajHnugxIDS+r/kZnuU1nGbm1h01rcwuqIJ6sQTJg8die5QCn/86A4DMIsaxvsc3Gcis7e5sQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data\\meta.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data\\meta.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hugo.braga\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

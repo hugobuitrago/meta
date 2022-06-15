@@ -11,7 +11,7 @@ namespace meta.Service.Interfaces
     public interface ICaminhaoService
     {
         Task<IEnumerable<Caminhao>> GetCaminhaoAsync();
-        Task<int> DeleteCaminhaoAsync(long idCaminhao);
+        Task<int?> DeleteCaminhaoAsync(long idCaminhao);
         Task<Caminhao> EditCaminhaoAsync(CaminhaoEditDTO caminhaoDTO);
         Task<Caminhao> InsertCaminhaoAsync(CaminhaoInsertDTO caminhaoDTO);
     }

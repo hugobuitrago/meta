@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data\\meta.Infra.Data.csproj": {}
+    "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data\\meta.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj": {
+    "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj",
         "projectName": "meta.Domain",
-        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj",
+        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj",
         "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
+    "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj",
         "projectName": "meta.Infra.Data.Interfaces",
-        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj",
+        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj",
         "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj": {
-                "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj"
+              "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj": {
+                "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data\\meta.Infra.Data.csproj": {
+    "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data\\meta.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data\\meta.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data\\meta.Infra.Data.csproj",
         "projectName": "meta.Infra.Data",
-        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data\\meta.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data\\meta.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -152,11 +152,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj": {
-                "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Domain\\meta.Domain.csproj"
+              "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj": {
+                "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Domain\\meta.Domain.csproj"
               },
-              "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj"
+              "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\gitHugo\\meta.Infra.Data.Interfaces\\meta.Infra.Data.Interfaces.csproj"
               }
             }
           }

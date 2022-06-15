@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo.braga\\source\\repos\\meta.DTO\\meta.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\hugo.braga\\Source\\Repos\\gitHugo\\meta.DTO\\meta.DTO.csproj",
       "projectName": "meta.DTO",
-      "projectPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.DTO\\meta.DTO.csproj",
+      "projectPath": "C:\\Users\\hugo.braga\\Source\\Repos\\gitHugo\\meta.DTO\\meta.DTO.csproj",
       "packagesPath": "C:\\Users\\hugo.braga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo.braga\\source\\repos\\meta.DTO\\obj\\",
+      "outputPath": "C:\\Users\\hugo.braga\\Source\\Repos\\gitHugo\\meta.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
