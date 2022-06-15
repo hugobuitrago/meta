@@ -11,7 +11,7 @@ using System.Linq;
 namespace meta.UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class CaminhaoTest
     {
         [TestMethod]
         public void GetTest_ReturnOK()
